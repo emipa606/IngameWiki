@@ -19,4 +19,7 @@
       <ExcludeAssets>runtime</ExcludeAssets>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\InGameWiki\InGameWiki.csproj" />
+  </ItemGroup>
 </Project>

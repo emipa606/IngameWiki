@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-<WikiButton.label>wiki</WikiButton.label>
-<WikiButton.description>Ver páginas wiki.</WikiButton.description>
-
- </LanguageData>
+  <WikiButton.label>wiki</WikiButton.label>
+  <WikiButton.description>Ver páginas wiki.</WikiButton.description>
+</LanguageData>

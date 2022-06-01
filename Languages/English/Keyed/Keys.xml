@@ -1,28 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-<Wiki.Show>show</Wiki.Show>
-<Wiki.Hide>hide</Wiki.Hide>
-<Wiki.Link>Link</Wiki.Link>
-<Wiki.LinkBroken>Link (broken, please report)</Wiki.LinkBroken>
-<Wiki.Spoiler>spoiler</Wiki.Spoiler>
-<Wiki.HiddenWarning>{0} pages are hidden due to spoiler settings.</Wiki.HiddenWarning>
-<Wiki.HideSpoilerMode>Hide spoilers: </Wiki.HideSpoilerMode>
-
-<!-- Autogen stuff -->
-<Wiki.Cost>Cost</Wiki.Cost>
-<Wiki.OutputCount> To craft {0}x item</Wiki.OutputCount>
-<Wiki.CraftedAt>Crafted at</Wiki.CraftedAt>
-<Wiki.Creates>Adds recipes</Wiki.Creates>
-<Wiki.ResearchToUnlock>Research to unlock</Wiki.ResearchToUnlock>
-
-<!-- Misc -->
-<Wiki.OpenWikiPage>Open wiki page</Wiki.OpenWikiPage>
-
-<!-- Settings menu -->
-<Wiki.ShowMenuBarButton>Show menu bar button</Wiki.ShowMenuBarButton>
-<Wiki.ShowMenuBarButtonDesc>When enabled, a wiki button is added to the bottom of the game screen.</Wiki.ShowMenuBarButtonDesc>
-<Wiki.ShowInspectorButton>Show inspector button</Wiki.ShowInspectorButton>
-<Wiki.ShowInspectorButtonDesc>When enabled, any item that has a corresponding wiki page displays a button to open that page in the inspection window.\nRequires a game restart to take effect.</Wiki.ShowInspectorButtonDesc>
-
- </LanguageData>
+  <Wiki.Show>show</Wiki.Show>
+  <Wiki.Hide>hide</Wiki.Hide>
+  <Wiki.Link>Link</Wiki.Link>
+  <Wiki.LinkBroken>Link (broken, please report)</Wiki.LinkBroken>
+  <Wiki.Spoiler>spoiler</Wiki.Spoiler>
+  <Wiki.HiddenWarning>{0} pages are hidden due to spoiler settings.</Wiki.HiddenWarning>
+  <Wiki.HideSpoilerMode>Hide spoilers: </Wiki.HideSpoilerMode>
+  <!-- Autogen stuff -->
+  <Wiki.Cost>Cost</Wiki.Cost>
+  <Wiki.OutputCount> To craft {0}x item</Wiki.OutputCount>
+  <Wiki.CraftedAt>Crafted at</Wiki.CraftedAt>
+  <Wiki.Creates>Adds recipes</Wiki.Creates>
+  <Wiki.ResearchToUnlock>Research to unlock</Wiki.ResearchToUnlock>
+  <!-- Misc -->
+  <Wiki.OpenWikiPage>Open wiki page</Wiki.OpenWikiPage>
+  <!-- Settings menu -->
+  <Wiki.ShowMenuBarButton>Show menu bar button</Wiki.ShowMenuBarButton>
+  <Wiki.ShowMenuBarButtonDesc>When enabled, a wiki button is added to the bottom of the game screen.</Wiki.ShowMenuBarButtonDesc>
+  <Wiki.ShowInspectorButton>Show inspector button</Wiki.ShowInspectorButton>
+  <Wiki.ShowInspectorButtonDesc>When enabled, any item that has a corresponding wiki page displays a button to open that page in the inspection window.\nRequires a game restart to take effect.</Wiki.ShowInspectorButtonDesc>
+</LanguageData>

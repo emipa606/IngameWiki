@@ -1,29 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <packageId>co.uk.epicguru.ingamewiki</packageId>
-  <name>In-game wiki</name>
+  <name>In-game wiki (Continued)</name>
+  <packageId>Mlie.IngameWiki</packageId>
   <author>Epicguru (James B)</author>
+  <url>https://github.com/emipa606/IngameWiki</url>
   <supportedVersions>
     <li>1.1</li>
     <li>1.2</li>
     <li>1.3</li>
   </supportedVersions>
-  <url>https://github.com/Epicguru/InGameWiki</url>
-  <description>
-&lt;size=24&gt;Allows mods to add their own in-game wiki.&lt;/size&gt;
-This mod doesn't do anything by itself - it requires other mods to populate their wiki pages.
-
-Should be loaded immediately after Harmony and before any mods that add in-game wikis.
-  </description>
   <modDependencies>
     <li>
-        <packageId>brrainz.harmony</packageId>
-        <displayName>Harmony</displayName>
-        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
     </li>
   </modDependencies>
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of Epicguru (James B)s mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=2113685739
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/IngameWiki][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[h3]This mod is no longer being updated[/h3]
+[b]As of May 2022, I will no longer be updating my Rimworld mods until further notice,[/b] although if a new version of Rimworld is released, I may make an effort to port my mods. The reasons for this are simple: I no longer have the time to maintain these mods, and my enjoyment from creating them has diminished over time. Thank you to everyone who enjoyed my mods and left good feedback.
+Please feel free to fork, re-upload or post patches for my mods. I ask the following if you do:
+[olist]
+[*] Any fork, 'continuation' or re-upload must be open source.
+[*] The fork or continuation must link back to the original (steam page or github page). I must be listed as the original author.
+[/olist]
+Thank you for your understanding!
+
+[b][u]Allows mods to add their own in-game wiki.[/u][/b]
+
+This mod doesn't do anything by itself - it requires other mods to populate their wiki pages.
+Should be loaded immediately after Harmony and before any mods that add in-game wikis.
+
+[b]For modders:[/b]
+If you want to add your own in-game wiki, visit the Github page for instructions and guides.
+[url]https://github.com/Epicguru/InGameWiki[/url]
+
+Currently supported features (only if mod author has added wiki support):
+[list]
+[*]Auto-generates pages for each item/building added by mod. Includes crafting, cost and research.
+[*]Automatically hides 'spoilers' (things that have not been researched/discovered). Can be disabled by player.
+[*]Can include 'custom pages' such as guides, tutorials etc.
+[*]Add images, links, item links, text, descriptions, icons.
+[/list]
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]</description>
 </ModMetaData>
