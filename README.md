@@ -5,7 +5,7 @@
 Update of Epicguru (James B)s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2113685739
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
